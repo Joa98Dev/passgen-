@@ -4,7 +4,7 @@
 
 **Author**: Joa98
 
-<img src="img/img-01" align="center"/>
+<img src="img/img-1.png" align="center"/>
 
 PassGen++ is a random password generator application designed for simplicity and security.
 The app:
