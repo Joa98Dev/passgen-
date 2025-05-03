@@ -1,6 +1,7 @@
 # 🔐 PassGen++ - Secure Password Generator
 
 **Version**: 1.0.4
+
 **Author**: Joa98
 
 PassGen++ is a random password generator application designed for simplicity and security.
