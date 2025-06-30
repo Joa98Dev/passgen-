@@ -188,21 +188,21 @@ void MyFrame::OnAbout(wxCommandEvent& event) {
                              "Built with wxWidgets"));
     
     // Copyright
-    aboutInfo.SetCopyright("(C) 2025 Joa98 <joaquinpuente98@gmail.com>");
+    aboutInfo.SetCopyright("(C) 2025 Joa98 <joadev98@gmail.com>");
 
     // License Info (GPL-3.0)
-    aboutInfo.SetLicense(_("This program is free software: you can redistribute it and/or modify "
-                        "it under the terms of the GNU General Public License as published by "
-                        "the Free Software Foundation, either version 3 of the License, or "
+    aboutInfo.SetLicense(_("This program is free software: you can redistribute it and/or modify\n"
+                        "it under the terms of the GNU General Public License as published by\n"
+                        "the Free Software Foundation, either version 3 of the License, or\n"
                         "(at your option) any later version.\n\n"
                         "See LICENSE file for full details."));
     
     // Website/GitHub Link
     aboutInfo.SetWebSite("https://github.com/Joa98Dev/passgen-.git");
     
-    // Optional: Add developer credits
+    // Developer credits
     wxArrayString developers;
-    developers.Add("Joaquin Puente <joaquinpuente98@gmail.com>");
+    developers.Add("Joa98 <joadev98@gmail.com>");
     aboutInfo.SetDevelopers(developers);
     
     // Show the about dialog

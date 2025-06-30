@@ -59,5 +59,3 @@ bool MyApp::OnInit() {
  * */
 
 wxIMPLEMENT_APP(MyApp);
-
-//g++ main.cpp ui.cpp -o passgen `wx-config --cxxflags --libs` 
